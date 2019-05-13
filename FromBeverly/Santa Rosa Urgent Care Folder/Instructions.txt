@@ -1,0 +1,96 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: Santa Rosa Urgent Care.indd
+
+PACKAGE DATE: 5/3/19 2:59 PM
+Creation Date: 9/6/17
+Modification Date: 5/3/19
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 1
+
+ExtensisFontManagementIDCS5.InDesignPlugin
+
+
+Non Opaque Objects :On Page1, 2
+
+FONTS
+6 Fonts Used; 0 Missing, 1 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Helvetica; Type: TrueType, Status: Embedded
+- Name: HelveticaNeueLTStd-Bd; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-Lt; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-Md; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-Roman; Type: OpenType Type 1, Status: OK
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 0 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Magenta; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Black; Angle: 0.000; Lines/Inch: 0.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 14 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 0 use RGB color space
+
+
+PRINT SETTINGS
+PPD: N/A, (Brother MFC-L2740DW series)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 95%, 95%
+Page Position: Center
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite, Colors in Black.
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Custom: 12 in x 9 in
+Paper Dimensions: 8.5 in x 11 in
+Orientation: Landscape
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. Santa Rosa Urgent Care.indd; type: Adobe InDesign publication; size: 3384K
+2. HelveticaNeueLTStd-Bd.otf; type: Font file; size: 28K
+3. HelveticaNeueLTStd-Lt.otf; type: Font file; size: 28K
+4. HelveticaNeueLTStd-Md.otf; type: Font file; size: 27K
+5. HelveticaNeueLTStd-Roman.otf; type: Font file; size: 29K
+6. MinionPro-Regular.otf; type: Font file; size: 212K

@@ -1,0 +1,103 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: SSRRH Main Brochure.indd
+
+PACKAGE DATE: 5/3/19 2:44 PM
+Creation Date: 6/17/14
+Modification Date: 5/3/19
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 1
+
+ExtensisFontManagementIDCS5.InDesignPlugin
+
+
+Non Opaque Objects :On PageNA, PB, 1
+
+FONTS
+10 Fonts Used; 0 Missing, 5 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Arial-BoldMT; Type: TrueType, Status: Embedded
+- Name: HelveticaNeue-Light; Type: Type 1, Status: OK
+- Name: HelveticaNeue-Medium; Type: Type 1, Status: Embedded
+- Name: HelveticaNeue-Roman; Type: Type 1, Status: Embedded
+- Name: HelveticaNeueLTStd-Bd; Type: Type 1, Status: Embedded
+- Name: HelveticaNeueLTStd-Bd; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-Lt; Type: OpenType Type 1, Status: OK
+- Name: MinionPro-Bold; Type: Type 1, Status: Embedded
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: Times-Roman; Type: TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 2 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 45.000; Lines/Inch: 60.000
+- Name and Type: Process Magenta; Angle: 45.000; Lines/Inch: 60.000
+- Name and Type: Process Yellow; Angle: 45.000; Lines/Inch: 60.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 60.000
+- Name and Type: PANTONE 2726 C; Angle: 45.000; Lines/Inch: 106.066
+- Name and Type: PANTONE 426 C; Angle: 45.000; Lines/Inch: 106.066
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 11 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 0 use RGB color space
+
+
+PRINT SETTINGS
+PPD: HP LaserJet 5000 Series, (192.168.1.104-1)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: Scale to fit page
+Page Position: Center
+Print Layers: Visible & Printable Layers
+Printer's Marks: Crops
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite, Colors in Black.
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Custom: 21.25 in x 11 in
+Paper Dimensions: 11 in x 17 in
+Orientation: Landscape
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. SSRRH Main Brochure.indd; type: Adobe InDesign publication; size: 4244K
+2. HelveNeuLig; type: Font file; size: 30K
+3. HelveticaNeue-Light; type: Font file; size: 5K
+4. HelveticaNeueLTStd-Bd.otf; type: Font file; size: 28K
+5. HelveticaNeueLTStd-Lt.otf; type: Font file; size: 28K
+6. MinionPro-Regular.otf; type: Font file; size: 212K
+7. Times.dfont; type: Font file; size: 1702K
