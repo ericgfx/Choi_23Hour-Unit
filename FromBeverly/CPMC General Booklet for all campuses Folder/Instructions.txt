@@ -1,0 +1,129 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: CPMC General Booklet for all campuses.indd
+
+PACKAGE DATE: 5/8/19 5:24 PM
+Creation Date: 7/17/18
+Modification Date: 5/8/19
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 1
+
+ExtensisFontManagementIDCS5.InDesignPlugin
+
+
+Non Opaque Objects :On Page1, 3, 4, 5, 6, 7, 8, 9, 11, 16
+
+FONTS
+20 Fonts Used; 0 Missing, 5 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: AppleBraille-Outline6Dot; Type: TrueType, Status: OK
+- Name: Gotham-Light; Type: Type 1, Status: OK
+- Name: HelveticaNeue-Bold; Type: Type 1, Status: OK
+- Name: HelveticaNeue-Bold; Type: Type 1, Status: Embedded
+- Name: HelveticaNeue-Medium; Type: Type 1, Status: OK
+- Name: HelveticaNeueLTPro-Lt; Type: Type 1, Status: Embedded
+- Name: HelveticaNeueLTStd-Bd; Type: Type 1, Status: Embedded
+- Name: HelveticaNeueLTStd-Bd; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-It; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-Lt; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-Lt; Type: Type 1, Status: Embedded
+- Name: HelveticaNeueLTStd-Md; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-Roman; Type: OpenType Type 1, Status: OK
+- Name: HelveticaNeueLTStd-Roman; Type: Type 1, Status: Embedded
+- Name: MinionPro-It; Type: OpenType Type 1, Status: OK
+- Name: MinionPro-MediumIt; Type: OpenType Type 1, Status: OK
+- Name: MinionPro-Regular; Type: OpenType Type 1, Status: OK
+- Name: Times-Roman; Type: TrueType, Status: OK
+- Name: Wingdings; Type: TrueType, Status: OK
+- Name: ZapfDingbatsITC; Type: TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 5 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Magenta; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: Process Black; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: PANTONE 2726 C; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: PANTONE 3272 C; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: PANTONE Neutral Black C; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: PANTONE Red 032 C; Angle: 0.000; Lines/Inch: 0.000
+- Name and Type: White; Angle: 0.000; Lines/Inch: 0.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 53 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 0 use RGB color space
+Links/Images with Layer Overrides: 1
+
+
+PRINT SETTINGS
+PPD: N/A, (Brother MFC-L2740DW series)
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Center
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite RGB
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 8.5 in x 11 in
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. CPMC General Booklet for all campuses.indd; type: Adobe InDesign publication; size: 8596K
+2. Apple Braille Outline 6 Dot.ttf; type: Font file; size: 257K
+3. GothaLig; type: Font file; size: 34K
+4. Gotham-Light.scr; type: Font file; size: 23K
+5. HelveNeuBol; type: Font file; size: 30K
+6. HelveticaNeue-Bold; type: Font file; size: 5K
+7. HelveNeuMed; type: Font file; size: 30K
+8. HelveticaNeue-Medium; type: Font file; size: 7K
+9. HelveticaNeueLTStd-Bd.otf; type: Font file; size: 28K
+10. HelveticaNeueLTStd-It.otf; type: Font file; size: 29K
+11. HelveticaNeueLTStd-Lt.otf; type: Font file; size: 28K
+12. HelveticaNeueLTStd-Md.otf; type: Font file; size: 27K
+13. HelveticaNeueLTStd-Roman.otf; type: Font file; size: 29K
+14. MinionPro-It.otf; type: Font file; size: 269K
+15. MinionPro-MediumIt.otf; type: Font file; size: 268K
+16. MinionPro-Regular.otf; type: Font file; size: 212K
+17. Times.dfont; type: Font file; size: 1702K
+18. Wingdings; type: Font file; size: 70K
+19. ZapfDingbats.ttf; type: Font file; size: 150K
