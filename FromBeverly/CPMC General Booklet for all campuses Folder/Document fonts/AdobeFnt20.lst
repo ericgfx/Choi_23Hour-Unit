@@ -1,0 +1,584 @@
+%!Adobe-FontList 1.20
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Bd
+FamilyName:Helvetica Neue LT Std
+StyleName:75 Bold
+MenuName:HelveticaNeueLT Std
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 75 Bold
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/HelveticaNeueLTStd-Bd.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29108
+FileModTime:417457478
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Bold
+NameArray:0,Mac,4,Helvetica Neue LT Std 75 Bold
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Gotham-Light
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/Gotham-Light.scr
+ResourceID:4158
+MacStyle:0
+FileLength:23635
+FileModTime:435708334
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-It
+FamilyName:Minion Pro
+StyleName:Italic
+MenuName:Minion Pro
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Minion Pro Italic
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/MinionPro-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:276140
+FileModTime:309464462
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro Ital
+NameArray:0,Mac,4,Minion Pro Italic
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-MediumIt
+FamilyName:Minion Pro
+StyleName:Medium Italic
+MenuName:Minion Pro Med
+StyleBits:1
+WeightClass:500
+WidthClass:5
+AngleClass:1
+FullName:Minion Pro Medium Italic
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/MinionPro-MediumIt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:275004
+FileModTime:309464440
+DesignSize:110
+NameArray:0,Mac,18,Minion Pro Med Ital
+NameArray:0,Mac,4,Minion Pro Medium Italic
+NameArray:0,Win,1,Minion Pro Med
+NameArray:0,Win,16,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Medium
+FamilyName:Helvetica Neue
+StyleName:65 Medium
+MenuName:Helvetica 65 Medium
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:12 pt. Helvetica* 65 Medium   06472
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/HelveNeuMed
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30985
+FileModTime:-386757634
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:ZapfDingbatsITC
+FamilyName:Zapf Dingbats
+StyleName:Regular
+MenuName:Zapf Dingbats
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Zapf Dingbats
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/ZapfDingbats.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:154132
+FileModTime:475109579
+NameArray:0,Mac,4,Zapf Dingbats
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-It
+FamilyName:Helvetica Neue LT Std
+StyleName:56 Italic
+MenuName:HelveticaNeueLT Std
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Helvetica Neue LT Std 56 Italic
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/HelveticaNeueLTStd-It.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30280
+FileModTime:450940656
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Ital
+NameArray:0,Mac,4,Helvetica Neue LT Std 56 Italic
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-Medium
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/HelveticaNeue-Medium
+ResourceID:14764
+MacStyle:0
+FileLength:7720
+FileModTime:435606174
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:AppleBraille-Outline6Dot
+FamilyName:Apple Braille
+StyleName:Outline 6 Dot
+MenuName:Apple Braille
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Apple Braille Outline 6 Dot
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/Apple Braille Outline 6 Dot.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:263912
+FileModTime:475109573
+NameArray:0,Mac,4,Apple Braille Outline 6 Dot
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Gotham-Light
+FamilyName:Gotham
+StyleName:Light
+MenuName:Gotham-Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Gotham-Light
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/GothaLig
+DataFormat:POSTResource
+UsesStandardEncoding:no
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:34971
+FileModTime:70841432
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Wingdings
+FamilyName:Wingdings
+StyleName:Regular
+MenuName:Wingdings
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Wingdings
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/Wingdings
+DataFormat:sfntResource
+ResourceID:5013
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:72052
+FileModTime:229590000
+NameArray:0,Mac,4,Wingdings
+NameArray:0,Win,1,Wingdings
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Wingdings
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/Wingdings
+ResourceID:2011
+MacStyle:0
+FileLength:72052
+FileModTime:229590000
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Wingdings
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/Wingdings
+ResourceID:2011
+MacStyle:1
+FileLength:72052
+FileModTime:229590000
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:217280
+FileModTime:351014026
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Roman
+FamilyName:Helvetica Neue LT Std
+StyleName:55 Roman
+MenuName:HelveticaNeueLT Std
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 55 Roman
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/HelveticaNeueLTStd-Roman.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:29788
+FileModTime:450940656
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std
+NameArray:0,Mac,4,Helvetica Neue LT Std 55 Roman
+NameArray:0,Win,1,HelveticaNeueLT Std
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Roman
+FamilyName:Times
+StyleName:Regular
+MenuName:Times
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Times Roman
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/Times.dfont
+DataFormat:sfntResource
+ResourceID:13494
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1743667
+FileModTime:475109579
+NameArray:0,Mac,4,Times Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Bold
+FamilyName:Times
+StyleName:Bold
+MenuName:Times
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Times Bold
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/Times.dfont
+DataFormat:sfntResource
+ResourceID:16697
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1743667
+FileModTime:475109579
+NameArray:0,Mac,4,Times Bold
+NameArray:0,Mac,4,Times Gras
+NameArray:0,Mac,4,Times Fett
+NameArray:0,Mac,4,Times grassetto
+NameArray:0,Mac,4,Times vet
+NameArray:0,Mac,4,Times Fet
+NameArray:0,Mac,4,Times Negrita
+NameArray:0,Mac,4,Times Fed
+NameArray:0,Mac,4,Times Carregado
+NameArray:0,Mac,4,Times Halvfet
+NameArray:0,Mac,4,Times lihava
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Italic
+FamilyName:Times
+StyleName:Italic
+MenuName:Times
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Times Italic
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/Times.dfont
+DataFormat:sfntResource
+ResourceID:21585
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1743667
+FileModTime:475109579
+NameArray:0,Mac,4,Times Italic
+NameArray:0,Mac,4,Times Italique
+NameArray:0,Mac,4,Times Kursiv
+NameArray:0,Mac,4,Times corsivo
+NameArray:0,Mac,4,Times cursief
+NameArray:0,Mac,4,Times Kursiv
+NameArray:0,Mac,4,Times Cursiva
+NameArray:0,Mac,4,Times kursiv
+NameArray:0,Mac,4,Times Itálico
+NameArray:0,Mac,4,Times kursiv
+NameArray:0,Mac,4,Times kursiivi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-BoldItalic
+FamilyName:Times
+StyleName:Bold Italic
+MenuName:Times
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Times Bold Italic
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/Times.dfont
+DataFormat:sfntResource
+ResourceID:22219
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:1743667
+FileModTime:475109579
+NameArray:0,Mac,4,Times Bold Italic
+NameArray:0,Mac,4,Times Gras italique
+NameArray:0,Mac,4,Times Fett Kursiv
+NameArray:0,Mac,4,Times grassetto corsivo
+NameArray:0,Mac,4,Times vet-cursief
+NameArray:0,Mac,4,Times Fet Kursiv
+NameArray:0,Mac,4,Times Negrita Cursiva
+NameArray:0,Mac,4,Times Fed kursiv
+NameArray:0,Mac,4,Times Carregado Itálico
+NameArray:0,Mac,4,Times Halvfet kursiv
+NameArray:0,Mac,4,Times lihava kursiivi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Times-Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/Times.dfont
+ResourceID:20
+MacStyle:0
+FileLength:1743667
+FileModTime:475109579
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Times-Bold
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/Times.dfont
+ResourceID:20
+MacStyle:1
+FileLength:1743667
+FileModTime:475109579
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Times-Italic
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/Times.dfont
+ResourceID:20
+MacStyle:2
+FileLength:1743667
+FileModTime:475109579
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Times-BoldItalic
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/Times.dfont
+ResourceID:20
+MacStyle:3
+FileLength:1743667
+FileModTime:475109579
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Md
+FamilyName:Helvetica Neue LT Std
+StyleName:65 Medium
+MenuName:HelveticaNeueLT Std Med
+StyleBits:0
+WeightClass:500
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 65 Medium
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/HelveticaNeueLTStd-Md.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28260
+FileModTime:303860812
+NameArray:0,Mac,18,HelveticaNeueLT Std Med
+NameArray:0,Mac,4,Helvetica Neue LT Std 65 Medium
+NameArray:0,Win,1,HelveticaNeueLT Std Med
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeueLTStd-Lt
+FamilyName:Helvetica Neue LT Std
+StyleName:45 Light
+MenuName:HelveticaNeueLT Std Lt
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Helvetica Neue LT Std 45 Light
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/HelveticaNeueLTStd-Lt.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:28980
+FileModTime:417457502
+DesignSize:120
+NameArray:0,Mac,18,HelveticaNeueLT Std Lt
+NameArray:0,Mac,4,Helvetica Neue LT Std 45 Light
+NameArray:0,Win,1,HelveticaNeueLT Std Lt
+NameArray:0,Win,16,Helvetica Neue LT Std
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:HelveticaNeue-Bold
+FamilyName:Helvetica Neue
+StyleName:75 Bold
+MenuName:Helvetica 55 Roman
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:12 pt. Helvetica* 75 Bold   07472
+WritingScript:Roman
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/HelveNeuBol
+DataFormat:POSTResource
+UsesStandardEncoding:yes
+isCFF:no
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:30960
+FileModTime:-386810814
+DesignSize:-1
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:HelveticaNeue-Bold
+OutlineFileName:/Users/erimacbookpro/Documents/GitHub/Choi_23Hour-Unit/FromBeverly/CPMC General Booklet for all campuses Folder/Document fonts/HelveticaNeue-Bold
+ResourceID:14768
+MacStyle:0
+FileLength:5806
+FileModTime:435606174
+%EndFont
+
